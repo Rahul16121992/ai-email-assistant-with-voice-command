@@ -1,6 +1,9 @@
 # ai-email-assistant-with-voice-command
 # 🚀 AI Email Assistant with Voice Command
 
+<img width="2115" height="916" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/28763f8f-02d9-47b8-b7d9-6e20a41d2da1" />
+
+
 AI Email Assistant is a smart, offline-capable email processing system built using Python and Streamlit.
 It helps users automatically analyze, classify, and manage emails efficiently without relying on external APIs.
 
