@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+nltk
+pyttsx3
+vosk
+pyaudio
+pandas
